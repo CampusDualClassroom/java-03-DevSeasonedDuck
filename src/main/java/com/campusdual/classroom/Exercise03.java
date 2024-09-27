@@ -1,10 +1,8 @@
 package com.campusdual.classroom;
 
-import java.util.Scanner;
 
 public class Exercise03 {
 
-    final static Scanner e = new Scanner(System.in);
 
     // Esto es una funcion, ya que devuelve un valor
     // TODO ↓: Tiene que devolver el siguiente mensaje: "Hola. Bienvenido " y la cadena de textos que se le pasa por parámetro.
